@@ -2,8 +2,6 @@
 
 💻 **Backend-Focused Fullstack Engineer**  
 🌍 Building enterprise & institutional systems  
-🚀 Open to **remote opportunities (overseas)**
-
 ---
 
 ## 🧠 About Me
