@@ -36,24 +36,38 @@ I specialize in approval workflows, role-based access control, REST APIs, and co
 ---
 
 ## ⚙️ Core Skills
-- Approval Workflow Systems
-- Role-Based Access Control (RBAC)
-- REST API Development (JWT Authentication)
-- Complex SQL & Relational Database Design
-- Reporting (PDF & Excel)
-- File Upload & Management
-- Institutional Information Systems
+
+- 🧩 Approval Workflow Systems  
+  Multi-step approval, role escalation, status tracking, and audit-ready flow design.
+
+- 🔐 Authentication & Authorization  
+  JWT-based authentication with refresh token strategy and Role-Based Access Control (RBAC) supporting multi-role and multi-organization access.
+
+- 🌐 REST API Development  
+  Secure, scalable REST APIs with token-based auth, middleware validation, and system-to-system integration.
+
+- 🗄️ Database Design & Complex SQL  
+  Relational database modeling and optimization with complex joins (10+ tables) and performance-aware queries.
+
+- 📊 Reporting & Data Export  
+  Automated reporting with PDF and Excel generation for institutional and management use.
+
+- 📁 File Upload & Document Management  
+  Secure file handling, validation, storage structuring, and access control.
+
+- 🏛️ Enterprise / Institutional Information Systems  
+  Development of internal systems for universities and public institutions (HR, academic, research, correspondence).
 
 ---
 
 ## 🏗️ Featured Projects
-- Scientific Incentive Submission System (CI3)
-- University Vehicle Management & Tracking System (CI4)
-- Research Collaboration Management System (CI4)
-- Laboratory Management Information System (CI4)
-- Student Affairs Information System (CI4)
-- Human Resource Information System (CI3)
-- Official Correspondence Information System (CI4)
+- Scientific Incentive Submission System
+- University Vehicle Management & Tracking System 
+- Research Collaboration Management System
+- Laboratory Management Information System
+- Student Affairs Information System
+- Human Resource Information System
+- Official Correspondence Information System
 
 ---
 
